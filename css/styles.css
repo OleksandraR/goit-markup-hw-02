@@ -47,11 +47,6 @@ body {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
-.menu-link-studio:active,
-.menu-link-studio:hover,
-.menu-link-studio:focus {
-    color: #404bbf;
-}
 
 .contacts-mail,
 .contacts-tel {
