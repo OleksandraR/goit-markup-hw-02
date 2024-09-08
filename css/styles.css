@@ -37,8 +37,10 @@ body {
     cursor: pointer;
 }
 .menu-link:hover,
-.menu-link:active,
 .menu-link:focus {
+    color: #404bbf;
+}
+.menu-link:active {
     color: #404bbf;
 }
 .contacts-mail,
@@ -60,7 +62,7 @@ body {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 56px;
-        line-height: 1.07143;
+        line-height: 1.07;
         letter-spacing: 0.02em;
         text-align: center;
         color: #fff;
@@ -70,9 +72,13 @@ body {
 }
 .button {
         background: #4d5ae5;
-            color: #fff
+            color: #fff;
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
 }
-.button:hover {
+.button:hover,
+.button:focus {
         background: #404bbf;
 }
 .mission-sub-title {
