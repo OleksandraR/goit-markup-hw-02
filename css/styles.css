@@ -11,7 +11,7 @@ button {
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
-    background-color: #FCFCFC;
+    background-color: #FFFFFF;
 }
 .page-logo-web {
     font-family: "Raleway", sans-serif;
@@ -65,16 +65,16 @@ body {
     background: #2e2f42;
 }
 .button {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background: #4d5ae5;
+        /*box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         border-radius: 4px;
-            padding: 16px 32px;
+            adding: 16px 32px;
             width: 169px;
-            height: 56px;
+            height: 56px;*/
             color: #fff
 }
 .button:hover {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    /*box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);*/
         background: #404bbf;
 }
 .mission-sub-title {
