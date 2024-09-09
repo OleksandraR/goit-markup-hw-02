@@ -44,13 +44,11 @@ body {
     color: #404bbf;
 }
 
-.contacts .contacts-mail:focus,
-.contacts .contacts-tel:focus
-.contacts .contacts-mail:active,
-.contacts .contacts-tel:active{
+.contacts .contacts-details:focus,
+.contacts .contacts-details:active{
     color: #404bbf
 };
-.contacts-tel {
+.contacts-details {
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -60,8 +58,7 @@ body {
 .page-contacts {
     font-style: normal;
 }
-.contacts-mail:hover,
-.contacts-tel:hover {
+.contacts-details:hover {
     color: #404bbf;
 }
 .hero-title {
