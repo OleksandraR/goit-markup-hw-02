@@ -39,12 +39,11 @@ body {
 .menu .menu-link:hover {
     color: #404bbf;
 }
-.menu .menu-link:focus {
-    color: #404bbf;
-}
+.menu .menu-link:focus,
 .menu-link:active {
     color: #404bbf;
 }
+
 .contacts-mail,
 .contacts-tel {
         font-weight: 400;
