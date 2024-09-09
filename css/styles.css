@@ -36,12 +36,10 @@ body {
 .menu-link {
     cursor: pointer;
 }
-.menu-link:hover,
-.menu-link:focus {
+.menu .menu-link:hover {
     color: #404bbf;
 }
-.menu-item:hover,
-.menu-item:focus {
+.menu .menu-link:focus {
     color: #404bbf;
 }
 .menu-link:active {
