@@ -44,7 +44,12 @@ body {
     color: #404bbf;
 }
 
-.contacts-mail,
+.contacts .contacts-mail:focus,
+.contacts .contacts-tel:focus
+.contacts .contacts-mail:active,
+.contacts .contacts-tel:active{
+    color: #404bbf
+};
 .contacts-tel {
         font-weight: 400;
         font-size: 16px;
