@@ -40,6 +40,10 @@ body {
 .menu-link:focus {
     color: #404bbf;
 }
+.menu-item:hover,
+.menu-item:focus {
+    color: #404bbf;
+}
 .menu-link:active {
     color: #404bbf;
 }
